@@ -1,6 +1,6 @@
 ---
 title: "Relationship between price apartments and ground living area. "
-author: "[Swarna Ravi(https://github.com/swarnaravi)"
+author: "[Swarna Ravi](https://github.com/swarnaravi)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "swarnaravistar@gmail.com"
 linkedin: "swarnaravi"
@@ -63,7 +63,6 @@ p <- data %>%
 # Turn it interactive
 ggplotly(p, tooltip="text")
 ```
-
 
 
 #Show raw data
